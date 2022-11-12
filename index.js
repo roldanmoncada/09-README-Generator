@@ -18,7 +18,7 @@ const questions = [
     },
     {
         type: 'input', // This came fourth when accounting for the table of contents that won't be created through these inputs.
-        name: 'install',
+        name: 'install', // Abbreviated installation for qol.
         message: 'Please enter installation instructions:'
     },
     {

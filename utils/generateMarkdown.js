@@ -42,11 +42,35 @@ function generateMarkdown(data) {
 
   This will the be info in the table of contents
 
+  # Installation:
+
+  ${data.install}
+
+  # Usage:
+
+  ${data.usage}
+
+  # License: 
   ${renderLicenseBadge(data.license)}
   ${renderLicenseLink(data.license)}
   ${renderLicenseSection(data.license)}
 
-  ${data.description}
+
+  # Contributing:
+
+  ${data.contrib}
+
+  # Tests
+
+  ${data.tests}
+
+  # Questions:
+
+  Here is a link to my GitHub portfolio!
+  ${data.qs-github}
+
+  If you have any questions at all, please feel free to email me at:
+  ${data.qs-email}
 
 `;
 }
