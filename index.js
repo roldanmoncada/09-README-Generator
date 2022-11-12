@@ -43,8 +43,13 @@ const questions = [
     },
     {
         type: 'input', // This came eighth.
-        name: 'qs-', 
-        message: 'Please enter testing instructions:'
+        name: 'qs-github', 
+        message: 'Please enter your GitHub username:'
+    },
+    {
+        type: 'input', // Finishing up the Questions section's inputs.
+        name: 'qs-email', 
+        message: 'Please enter your email address:'
     },
 ];
 
