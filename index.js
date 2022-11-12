@@ -17,37 +17,37 @@ const questions = [
         message: 'Please enter a brief description of your project:' // Keeping this phrasing the same for all bulk text options in the project.
     },
     {
-        type: 'input', // This came third.
+        type: 'input', // This came fourth when accounting for the table of contents that won't be created through these inputs.
         name: 'install',
         message: 'Please enter installation instructions:'
     },
     {
-        type: 'input', // This came fourth.
+        type: 'input', // This came fifth.
         name: 'usage',
         message: 'Please enter usage information:'
     },
     {
-        type: 'list', // This came fifth and is the only one that is different in type. Since the instructions asked for 
+        type: 'list', // This came sixth and is the only one that is different in type. Since the instructions asked for 
         name: 'license',
         choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3', 'None']
     },
     {
-        type: 'input', // This came sixth.
+        type: 'input', // This came seventh.
         name: 'contrib', // Abbreviated for brevity in my string template literal on the generateMarkdown.js
         message: 'Please enter contribution guidelines:'
     },
     {
-        type: 'input', // This came seventh.
+        type: 'input', // This came eighth.
         name: 'tests', 
         message: 'Please enter testing instructions:'
     },
     {
-        type: 'input', // This came eighth.
-        name: 'qs-github', 
+        type: 'input', // This came ninth.
+        name: 'qs-github', // 'qs' stands for questions in these next two inputs to keep them group together semantically as they will be grouped together in the final document.
         message: 'Please enter your GitHub username:'
     },
     {
-        type: 'input', // Finishing up the Questions section's inputs.
+        type: 'input', // Finishing up the Questions (ninth) section's inputs.
         name: 'qs-email', 
         message: 'Please enter your email address:'
     },
