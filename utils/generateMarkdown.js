@@ -38,33 +38,33 @@ function generateMarkdown(data) {
 
   ${data.description}
   
-  # Table of Contents
+  ## Table of Contents
 
   This will the be info in the table of contents
 
-  # Installation:
+  ## Installation:
 
   ${data.install}
 
-  # Usage:
+  ## Usage:
 
   ${data.usage}
 
-  # License: 
+  ## License: 
   ${renderLicenseBadge(data.license)}
   ${renderLicenseLink(data.license)}
   ${renderLicenseSection(data.license)}
 
 
-  # Contributing:
+  ## Contributing:
 
   ${data.contrib}
 
-  # Tests
+  ## Tests
 
   ${data.tests}
 
-  # Questions:
+  ## Questions:
 
   Here is a link to my GitHub portfolio!
 
