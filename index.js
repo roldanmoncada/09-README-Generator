@@ -43,12 +43,12 @@ const questions = [
     },
     {
         type: 'input', // This came ninth.
-        name: 'qs-github', // 'qs' stands for questions in these next two inputs to keep them group together semantically as they will be grouped together in the final document.
+        name: 'github', // 'qs' stands for questions in these next two inputs to keep them group together semantically as they will be grouped together in the final document.
         message: 'Please enter your GitHub username:'
     },
     {
         type: 'input', // Finishing up the Questions (ninth) section's inputs.
-        name: 'qs-email', 
+        name: 'email', 
         message: 'Please enter your email address:'
     },
 ];

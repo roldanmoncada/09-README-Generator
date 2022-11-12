@@ -67,10 +67,12 @@ function generateMarkdown(data) {
   # Questions:
 
   Here is a link to my GitHub portfolio!
-  ${data.qs-github}
+
+  ${data.github}
 
   If you have any questions at all, please feel free to email me at:
-  ${data.qs-email}
+  
+  ${data.email}
 
 `;
 }
