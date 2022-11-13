@@ -1,8 +1,8 @@
 
-  # 9999
+  # 99
 
   ## Description:
-  888
+  88
   
   ## Table of Contents:
   - [Description](#description)
@@ -10,22 +10,21 @@
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contrib)
-  - [Description](#description)
+  - [Tests](#tests)
   - [Questions](#github)
 
   ## Installation:
 
-  777
+  77
 
   ## Usage:
 
-  666
+  66
 
   ## License: 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-      
+  [![license:MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io)
   
-*[license](#license)
+[license](#license)
 
     
   This is licensed under the MIT license.
@@ -34,19 +33,14 @@
 
   ## Contributing:
 
-  5555
+  555
 
   ## Tests
 
-  4444
+  444
 
   ## Questions:
 
-  Here is a link to my GitHub portfolio!
+  Here is a link to my GitHub portfolio! [333](https://github.com/333)
 
-  3333
-
-  If you have any questions at all, please feel free to email me at:
-  
-  2222
-
+  If you have any questions at all, please feel free to email me at: [222](mailto:user@example.com)

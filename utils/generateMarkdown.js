@@ -2,8 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license !== 'None') {
-      return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)
-      `
+      return `[![license:MIT](https://img.shields.io/badge/license-${license}-blue.svg)](https://shields.io)`
     }
     return '';
 }
@@ -12,7 +11,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'None') {
-    return `\n*[license](#license)\n
+    return `\n[license](#license)\n
     `
   }
   return '';
@@ -69,15 +68,9 @@ function generateMarkdown(data) {
 
   ## Questions:
 
-  Here is a link to my GitHub portfolio!
+  Here is a link to my GitHub portfolio! [${data.github}](https://github.com/${data.github})
 
-  ${data.github}
-
-  If you have any questions at all, please feel free to email me at:
-  
-  ${data.email}
-
-`;
+  If you have any questions at all, please feel free to email me at: [${data.email}](mailto:user@example.com)`;
 }
 
 module.exports = generateMarkdown;
