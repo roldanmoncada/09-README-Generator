@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license !== 'None') {
-      return `[![license:MIT](https://img.shields.io/badge/license-${license}-blue.svg)](https://shields.io)`
+      return `[![license](https://img.shields.io/badge/license-${license}-blue.svg)](https://shields.io)`
     }
     return '';
 }
@@ -11,7 +11,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'None') {
-    return `\n[license](#license)\n
+    return `\n[${license}](#license)\n
     `
   }
   return '';

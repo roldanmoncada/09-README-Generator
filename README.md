@@ -1,8 +1,8 @@
 
-  # 99
+  # 9
 
   ## Description:
-  88
+  8
   
   ## Table of Contents:
   - [Description](#description)
@@ -15,32 +15,32 @@
 
   ## Installation:
 
-  77
+  7
 
   ## Usage:
 
-  66
+  6
 
   ## License: 
-  [![license:MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://shields.io)
   
-[license](#license)
+[GPL](#license)
 
     
-  This is licensed under the MIT license.
+  This is licensed under the GPL license.
     
 
 
   ## Contributing:
 
-  555
+  5
 
   ## Tests
 
-  444
+  4
 
   ## Questions:
 
-  Here is a link to my GitHub portfolio! [333](https://github.com/333)
+  Here is a link to my GitHub portfolio! [3](https://github.com/3)
 
-  If you have any questions at all, please feel free to email me at: [222](mailto:user@example.com)
+  If you have any questions at all, please feel free to email me at: [2](mailto:user@example.com)
