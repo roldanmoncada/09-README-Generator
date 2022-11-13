@@ -29,7 +29,7 @@ const questions = [
     {
         type: 'list', // This came sixth and is the only one that is different in type. Since the instructions asked for 
         name: 'license',
-        choices: ['MIT', 'Apache', 'GPL', 'BSD', 'None'] //Took the numbers out of the name because them having a space was messing up the final output.
+        choices: ['MIT', 'Apache', 'GPL', 'BSD', 'None of the Above'] //Took the numbers out of the name because them having a space was messing up the final output.
     },
     {
         type: 'input', // This came seventh.
