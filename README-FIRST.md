@@ -53,7 +53,7 @@ THEN I am taken to the corresponding section of the README
  ![image](https://user-images.githubusercontent.com/112277445/215370539-ffeffd58-609d-4226-9b22-3cd57fc3e8c6.png)
 
 ## Link to Walkthrough Video:
-Placeholder text for when it's available
+Here is the link to the walkthrough video hosted on [Google Drive](https://drive.google.com/file/d/1TvOenIIKu_uOI_oqf-Odmo3DgWu8rTqn/view)
 
   ## Questions:
   If you have any questions at all, please feel free to email me at: [roldan.h.moncada@gmail.com](mailto:roldan.h.moncada@gmail.com)

@@ -1,10 +1,10 @@
 
-  # README Example!
+  # Test App for the Video Recording of This Assignment!
 
   [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io) 
 
   ## Description:
-  This is being created as an example for the app's README. No app is being create unfortunately.
+  Not much to add except to reiterate that this is a test.
   
   ## Table of Contents:
   - [Description](#description)
@@ -17,11 +17,11 @@
 
   ## Installation:
 
-  Right click on the output README file and select "Open Preview".
+  Not applicable currently but this is where they would go.
 
   ## Usage:
 
-  This app is for anyone that is creating an app and would like to create a README faster than they usually would by creating one manually.
+  This app is useful for any developers that are wanting to save time on their README.
 
   ## License: 
   Please visit this link for more information: [MIT](https://opensource.org/licenses/MIT) 
@@ -29,14 +29,14 @@
 
   ## Contributing:
 
-  None possible for this scenario.
+  Does not apply here. For the README Generator app, however, a simple email or message on GitHub will do.
 
   ## Tests:
 
-  None possible for this scenario.
+  Not applicable again.
 
   ## Questions:
 
   Here is a link to my GitHub portfolio! [Generic-GitHub-Name](https://github.com/Generic-GitHub-Name)
 
-  If you have any questions at all, please feel free to email me at: [example@test.com](mailto:user@example.com)
+  If you have any questions at all, please feel free to email me at: [test@generic.com](mailto:user@example.com)
