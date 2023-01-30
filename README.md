@@ -1,10 +1,10 @@
 
-  # 99
+  # README Example!
 
-  [![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://shields.io) 
+  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io) 
 
   ## Description:
-  88
+  This is being created as an example for the app's README. No app is being create unfortunately.
   
   ## Table of Contents:
   - [Description](#description)
@@ -17,26 +17,26 @@
 
   ## Installation:
 
-  77
+  Right click on the output README file and select "Open Preview".
 
   ## Usage:
 
-  66
+  This app is for anyone that is creating an app and would like to create a README faster than they usually would by creating one manually.
 
   ## License: 
-  Please visit this link for more information: [Apache](https://opensource.org/licenses/Apache-2.0) 
+  Please visit this link for more information: [MIT](https://opensource.org/licenses/MIT) 
 
 
   ## Contributing:
 
-  55
+  None possible for this scenario.
 
-  ## Tests
+  ## Tests:
 
-  44
+  None possible for this scenario.
 
   ## Questions:
 
-  Here is a link to my GitHub portfolio! [33](https://github.com/33)
+  Here is a link to my GitHub portfolio! [Generic-GitHub-Name](https://github.com/Generic-GitHub-Name)
 
-  If you have any questions at all, please feel free to email me at: [22](mailto:user@example.com)
+  If you have any questions at all, please feel free to email me at: [example@test.com](mailto:user@example.com)

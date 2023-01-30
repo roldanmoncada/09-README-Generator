@@ -4,13 +4,11 @@
 
   ## Description:
   This README file generator was created for future developers to use whenever they have to make a simple README for some project. You can input a title, description, installation instructions, usage information, contribution guidelines, and test instructions. You can also select from a list of 5 options for your license identification. In order to start the code, you need to install the inquirer package and for that you should have npm installed. If not then you can do it using the following commands that need to be written in your terminal. 
- ```
-npm init
-```
+
 ```
 npm install
 ```
-
+The above code will install the node packages specified in the package.json file included in the repository's code. 
  
  The application will begin by typing the following command in the terminal and pressing the enter key:
  ```
@@ -20,7 +18,7 @@ The user will be prompted to answer the input related questions. Once the user a
   
 ## User Story
 
-```md
+```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
@@ -28,7 +26,7 @@ SO THAT I can quickly create a professional README for a new project
 
 ## Acceptance Criteria
 
-```md
+```
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -48,9 +46,11 @@ THEN I am taken to the corresponding section of the README
 
   ## Screenshots:
 
-  #### The questions and the order they are in - 
+  #### The questions and the order they are in:
+![image](https://user-images.githubusercontent.com/112277445/215370466-ee430fa6-25cc-4ee2-95ed-427d8d300345.png)
 
-  ####  The final product for this demo - 
+### Output as specified by the inputs in the above screenshot. (Only partial due to screen size limitations.)
+ ![image](https://user-images.githubusercontent.com/112277445/215370539-ffeffd58-609d-4226-9b22-3cd57fc3e8c6.png)
 
 ## Link to Walkthrough Video:
 Placeholder text for when it's available
